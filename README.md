@@ -18,3 +18,63 @@ Increase user satisfaction
 Ensure accessibility and inclusiveness
 
 Design systems that match real user needs
+
+🧩 Key Principles
+
+User-Centered Design (UCD) – Design based on user needs and feedback
+
+Consistency – Similar actions should produce similar results
+
+Simplicity – Minimize complexity and cognitive load
+
+Feedback – Inform users about system status and actions
+
+Error Prevention & Recovery – Prevent errors and help users recover easily
+
+🔄 Usability Engineering Process
+
+User Research
+
+Identify users, goals, and context
+
+Requirement Analysis
+
+Define usability requirements
+
+Design & Prototyping
+
+Wireframes, mockups, prototypes
+
+Usability Testing
+
+Test with real users
+
+Evaluation & Iteration
+
+Analyze results and improve design
+
+🛠 Common Usability Methods
+
+Heuristic Evaluation
+
+Usability Testing
+
+Surveys & Questionnaires
+
+Personas & User Scenarios
+
+A/B Testing
+
+Cognitive Walkthroughs
+
+📊 Usability Metrics
+
+Task completion rate
+
+Time on task
+
+Error rate
+
+Learnability
+
+User satisfaction (SUS score)
