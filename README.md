@@ -78,3 +78,43 @@ Error rate
 Learnability
 
 User satisfaction (SUS score)
+🌍 Applications
+
+Web & Mobile Applications
+
+Enterprise Software
+
+E-commerce Platforms
+
+Healthcare Systems
+
+Educational Software
+
+📚 Tools & Technologies
+
+Figma, Adobe XD
+
+Axure, Balsamiq
+
+UsabilityHub
+
+Google Analytics
+
+Hotjar
+
+✅ Benefits of Usability Engineering
+
+Better user experience
+
+Higher user retention
+
+Reduced development and support costs
+
+Increased productivity
+
+Competitive advantage
+
+🧑‍💻 Author
+
+Poorna Chandra Dinesh
+Master’s in Computer Science – Software & Network Engineering
