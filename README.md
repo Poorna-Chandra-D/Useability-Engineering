@@ -12,6 +12,25 @@
 
 </div>
 
+---
+
+## 📑 Table of Contents
+
+- [📌 Overview](#-overview)
+- [🎯 Objectives](#-objectives)
+- [🧩 Key Principles](#-key-principles)
+- [🔄 Usability Engineering Process](#-usability-engineering-process)
+- [🛠 Common Usability Methods](#-common-usability-methods)
+- [📊 Usability Metrics](#-usability-metrics)
+- [🌍 Applications](#-applications)
+- [📚 Tools & Technologies](#-tools--technologies)
+- [✅ Benefits](#-benefits-of-usability-engineering)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Getting Started](#-getting-started)
+- [🧑‍💻 Author](#-author)
+- [📄 License](#-license)
+
+---
 
 
 ## 📌 Overview
